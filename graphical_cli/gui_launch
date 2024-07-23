@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./graphical_cli/zappy_gui.x86_64
